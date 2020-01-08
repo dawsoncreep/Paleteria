@@ -1,0 +1,41 @@
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\bin\Debug\Paleteria.exe
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\bin\Debug\Paleteria.pdb
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Login.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Properties.Resources.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.csproj.GenerateResource.Cache
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.exe
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.pdb
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Principal.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Productos.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Roles.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Usuarios.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.Inventario.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.IngresoInventario.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Paleteria\Paleteria\obj\Debug\Paleteria.tecladoNum.resources
+C:\Users\Getronics\Documents\Visual Studio 2008\Projects\PALETERIA\Paleteria\obj\Debug\Paleteria.Parametros.resources
+C:\Users\Getronics\Documents\Visual Studio 2008\Projects\PALETERIA\Paleteria\obj\Debug\Paleteria.Ventas.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Ventas.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.IngresoInventario.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Inventario.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Login.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Parametros.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Principal.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Productos.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Properties.Resources.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Roles.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.tecladoNum.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Usuarios.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.csproj.GenerateResource.Cache
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\bin\Debug\Paleteria.exe.config
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\bin\Debug\Paleteria.exe
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\bin\Debug\Paleteria.pdb
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.exe
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.pdb
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.inicialCaja.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.corteCaja.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.ventasDia.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Pago.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.retiroCaja.resources
+D:\PERSONAL\proyectos\paleteria\PALETERIA\Paleteria\obj\Debug\Paleteria.Categoria.resources
